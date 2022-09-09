@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IndexAE</string>
+    <string name="currency">Currency :</string>
+    <string name="type">Type</string>
+
+    <string name="currency_new">Currency</string>
+    <string name="fetched_time">Last Updated</string>
+    <string name="list_of_currencies">List of Currencies</string>
+    <string name="grid_view">Grid View</string>
+    <string name="list_view">List view</string>
+</resources>
